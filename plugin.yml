@@ -1,0 +1,9 @@
+name: SkyBlockUI
+main: SkyBlockUI\Main
+author: BabosApple
+api: 3.0.0
+version: 1.0
+
+commands:
+  sbui:
+    description: "Open skyblockUI"
